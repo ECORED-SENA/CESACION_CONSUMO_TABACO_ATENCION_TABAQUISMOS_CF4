@@ -34,7 +34,7 @@
             p.mb-0 No se recomienda la utilización rutinaria de tratamiento farmacológico en esta población pues su efectividad no está probada. Sin embargo, se debe valorar cada caso en particular teniendo en cuenta el balance riesgo beneficio, puesto que, en los fumadores regulares continuar fumando podría resultar más perjudicial que recibir sustitutos de nicotina. En el caso de usar estos productos se recomienda usar chicles o parches pues son los productos mejor estudiados en jóvenes.
         p.mb-4 En este grupo poblacional todos los esfuerzos deben estar dirigidos a evitar el contacto con cualquier producto que contenga tabaco debido a que existe evidencia que confirma que el contacto temprano incrementa el riesgo del consumo crónico.
 
-        p.mb-0 Esquema 5Aes adaptado a adolescentes: aunque no existe evidencia de que una modalidad de consejería breve sea mejor que otra, se considera que el esquema de las 5Aes constituye una buena opción para invitar a los jóvenes a parar de fumar. A continuación, se mencionan los componentes del modelo realizando algunas sugerencias de acuerdo con el tipo de población:
+        p.mb-0 #[strong Esquema 5Aes adaptado a adolescentes:] aunque no existe evidencia de que una modalidad de consejería breve sea mejor que otra, se considera que el esquema de las 5Aes constituye una buena opción para invitar a los jóvenes a parar de fumar. A continuación, se mencionan los componentes del modelo realizando algunas sugerencias de acuerdo con el tipo de población:
     
     TabsC.color-acento-contenido.mb-5(data-aos="fade-up")
       .p-5.BG01(titulo="Paso 1: Averiguar")
@@ -90,7 +90,7 @@
         .col-6.col-md-5.mb-4.mb-md-0
           img.w-50.mx-auto(src="@/assets/curso/img02.svg")
         .col-md.col-lg-7
-          p.mb-4 En el siguiente video se realiza un ejercicio de aplicación de las 5Rs, de manera demostrativa de la intervención a un paciente no motivado.
+          p.mb-4 En el siguiente video se presenta la intervención breve con la estrategia 5A desde el abordaje de un caso de pacientes adolescentes.
           a.boton.color-acento-botones.mb-4(href=("https://www.youtube.com/watch?v=CCtUfzQA1z8") target="_blank" type="application/pdf")
             span Ver video
             i.fas.fa-play-circle
@@ -179,10 +179,10 @@
         .col-6.col-md-5.mb-4.mb-md-0
           img.w-50.mx-auto(src="@/assets/curso/img02.svg")
         .col-md.col-lg-7
-          p.mb-4 En el siguiente video se presenta la intervención breve con la estrategia 5 A desde el abordaje de un caso de paciente gestante.  
+          p.mb-4 En el siguiente video se presenta la intervención breve con la estrategia 5 A desde el abordaje de un caso de paciente gestante. 
           a.boton.color-acento-botones.mb-4(:href="obtenerLink('/downloads/anexo03.pdf')" target="_blank" type="application/pdf")
-            span Descargar
-            i.fas.fa-file-download
+            span Ver video
+            i.fas.fa-play-circle
           p.mb-0 Nota. Tomada del Ministerio de Salud y Protección Social de Colombia (2020).
 
 </template>

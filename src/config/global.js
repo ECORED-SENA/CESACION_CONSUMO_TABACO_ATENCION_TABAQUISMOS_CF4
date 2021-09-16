@@ -181,7 +181,7 @@ export default {
       texto:
         'Ministerio de Salud y Protección Social de Colombia (2020). Directrices para desarrollar programas para la cesación del consumo de tabaco y atención del tabaquismo.',
       tipo: 'Documento',
-      descarga:
+      link:
         'https://www.minsalud.gov.co/sites/rid/Lists/BibliotecaDigital/RIDE/VS/PP/ENT/directrices-cesacion-consumo-atencion-tabaco.pdf',
     },
   ],

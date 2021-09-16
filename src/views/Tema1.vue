@@ -121,9 +121,6 @@
                 p.mb-0
                   strong Ofreciendo ayuda: 
                   | como forma de reconocer la dificultad que implica este cambio.
-            p.mb-4s
-            | Si la respuesta es afirmativa, continuar con la segunda 
-            strong A: Aconsejar.
           .col-md-4
             figure
               img(src='@/assets/curso/tema1/img08.jpg', alt='2A')
@@ -154,7 +151,7 @@
             p Implica evaluar la motivación del sujeto para dejar de fumar, lo cual constituye una clave importante para decidir lo que se hace a continuación.
             p Una persona se considera que está preparada para dejar de fumar cuando tiene certeza que desea el cambio y que cree que puede hacerlo (autoeficacia).
             .BG02.p-3
-              p.mb-0.text-center Ejemplos de consejo breve:
+              p.mb-0.text-center Para evaluar esta motivación se pueden utilizar estas dos preguntas:
           .col-md-4.mb-4
             figure
               img(src='@/assets/curso/tema1/img09.jpg', alt='3A')
@@ -239,7 +236,7 @@
                 p Canalizar al componente de atenciones avanzadas a los grupos especiales identificados, tales como gestantes, persona con comorbilidades crónicas, adolescentes, consumidores de otras sustancias psicoactivas y personas con alteraciones de la salud mental. Mantener la intervención breve hasta que las atenciones avanzadas sean instauradas.           
               .col-md-6
                 figure
-                  img(src='@/assets/curso/tema1/img13.jpg', alt='')
+                  img(src='@/assets/curso/tema1/img14.jpg', alt='')
         
         .row.justify-content-center
           .col-md-10
@@ -248,7 +245,7 @@
                 p Reforzar motivación y controlar en las próximas consultas a las personas que no desean dejar de fumar, con el propósito de generar un cambio de comportamiento frente a la posibilidad de dejar de fumar (avance en los estados de cambio de Prochaska).         
               .col-md-6
                 figure
-                  img(src='@/assets/curso/tema1/img14.jpg', alt='')
+                  img(src='@/assets/curso/tema1/img13.jpg', alt='')
     
     .bloque-texto-g.color-secundario.BG02.p-3.p-sm-4.p-md-5.mb-5.bordLeft.justify-content-start(data-aos="fade-down")
       .bloque-texto-g__img.modGLeft(
@@ -282,7 +279,7 @@
                     td #[strong A:] Averiguar.
                   tr
                     td #[strong B:] Brinde consejo.
-                    td #[strong A:] Asesorar o Aconsejar. Brindar consejo breve.
+                    td #[strong A:] Asesorar o aconsejar. Brindar consejo breve.
                   tr
                     td #[strong C:] Cesación: apóyelo o derívelo para su tratamiento.
                     td 
@@ -327,7 +324,7 @@
           img(src='@/assets/curso/tema1/img16.jpg', alt='')
       .col-6(data-aos="fade-right")
         h5.mb-4 Modelo de las 5Aes
-        p Corresponde a las acciones de intervención breve programada que deben ofrecer las EPS a través de su red de Instituciones Prestadoras de Servicios de Salud, tal como lo establece la Ley 1335 de 2009; aquí se hace énfasis en los pasos 4 y 5 de la estrategia de las 5Aes, no obstante, es necesario aplicar todos los pasos de la estrategia, además realizar las consultas específicas programadas. El período de seguimiento mínimo debe ser de al menos 6 meses (Ministerio de Salud y Protección Social de Colombia, 2020).
+        p La idea es poder aplicar el modelo completo de las 5Aes, considerando que se debe programar un espacio de tiempo de 20 minutos para poder hacerlo, se debe hacer mayor énfasis en los pasos 4 y 5 de la estrategia, no obstante, es necesario aplicar todos los pasos del modelo de las 3Aes que se revisaron anteriormente.
     
     .row.BG06.p-5.mb-5(data-aos="fade-up")
       h3.mb-5 4A: Ayudar al paciente a elaborar un plan para dejar de fumar:
@@ -406,6 +403,16 @@
                   .col-md-10            
                     .row
                       .col-12
+                        p.mb-4 Se recomienda utilizar una técnica de 4 pasos que pueden ser recordadas utilizando la nemotecnia STAR.
+                        p.mb-4 #[u S = Seleccione:] pídale al fumador que seleccione una fecha para dejar de fumar, idealmente dentro de las próximas dos semanas.
+                        p.mb-4 El día seleccionado por el paciente para dejar de fumar se suele denominar Día D. 
+                        figure.mb-0
+                          img(src='@/assets/curso/tema1/img37.jpg', alt='Transmitir')
+
+                .row.justify-content-center
+                  .col-md-10            
+                    .row
+                      .col-12
                         p.mb-4 #[u T = Transmitir:] recomiende a la persona transmitir la información de su intento de cesación a familiares, compañeros de trabajo, amigos y en general a cualquier persona que pueda apoyar el intento de cesación.
                         figure.mb-0
                           img(src='@/assets/curso/tema1/img20.jpg', alt='Transmitir')
@@ -452,7 +459,7 @@
                             | Mantenga la cajetilla o el vapeador lejos, fuera de su lugar habitual y que no esté a la vista. 
                           li
                             i.fas.fa-angle-right
-                            | Cuando sienta deseos de fumar o vapear, tendrá tiempo de preguntarse “¿Realmente lo necesito?”. 
+                            | Cuando sienta deseos de fumar o vapear, tendrá tiempo de preguntarse “#[i ¿Realmente lo necesito?]”. 
                           li
                             i.fas.fa-angle-right
                             | Postergue unos minutos cada cigarrillo o vapeo, realizando alguna actividad que lo distraiga.
@@ -504,7 +511,7 @@
                   .col-md-10            
                     .row
                       .col-12
-                        p.mb-4 Cuarto paso: mantenerse libre de tabaco. Los primeros meses debe mantenerse alerta. La recaída se inicia con una pitada o vapeada. Usted ya sabe qué hacer si aparece la idea o ese impulso, ponga en práctica las estrategias 
+                        p.mb-4 #[b Cuarto paso:] mantenerse libre de tabaco. Los primeros meses debe mantenerse alerta. La recaída se inicia con una pitada o vapeada. Usted ya sabe qué hacer si aparece la idea o ese impulso, ponga en práctica las estrategias 
                         ul.lista-ul.mb-4
                           li
                             i.fas.fa-angle-right
@@ -553,7 +560,7 @@
     .video.mb-5(data-aos="fade")
       iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
     
-    h3(data-aos="fade-up") 5A: Arreglar seguimiento:
+    h3(data-aos="fade-up") 5A. Arreglar seguimiento:
 
     p.mb-4 es necesario organizar un seguimiento con el paciente, bien sea por telesalud o presencial, esto implica direccionarlo al componente de atenciones avanzadas del programa de cesación de tabaco, si es necesario. 
 
@@ -599,6 +606,7 @@
             .col-md-10
               .row.align-items-center
                 .col-md-8.mb-4.mb-md-0
+                  p.mb-4 Para los pacientes que han vuelto a fumar:
                   ul.lista-ul.mb-4
                     li
                       i.fas.fa-angle-right
@@ -836,7 +844,7 @@
         .col-6.col-md-5.mb-4.mb-md-0
           img.w-50.mx-auto(src="@/assets/curso/img01.svg")
         .col-md.col-lg-7
-          p.mb-4 En el siguiente video se realiza un ejercicio de aplicación de las 5Aes de manera demostrativa de la intervención de consejería breve, utilizando el modelo de las 5Aes a un paciente motivado.        
+          p.mb-4 A continuación, se presenta el resumen de las actividades intermedias, es decir, la aplicación completa del modelo de las 5Aes en el marco de una consulta programada en la que se busca lograr que un paciente consumidor de productos de tabaco pase de la intención a la acción y logre iniciar un proceso de cesación.       
           a.boton.color-acento-botones.mb-4(:href="obtenerLink('/downloads/anexo02.pdf')" target="_blank" type="application/pdf")
             span Descargar
             i.fas.fa-file-download
@@ -852,21 +860,6 @@
             span Ver video
             i.fas.fa-play-circle
           p.mb-0 Nota. Tomada del Ministerio de Salud y Protección Social de Colombia (2020).
-
-
-
-
-
-
-
-
-
-
-              
-
-
-
-
   
 </template>
 

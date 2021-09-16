@@ -41,7 +41,7 @@
     .BG05.p-4.pb-5.mb-5(data-aos="flip-right")
       .row.justify-content-center.mb-5  
         .col-md-10.BG02.p-3
-          p.mb-0.text-center Intervención breve de las 5Rs
+          p.mb-0.text-center Recomendaciones del Ministerio de Salud y Protección Social
       SlyderA
         .row.justify-content-center
           .col-md-10
@@ -79,7 +79,7 @@
     #t2_1.titulo-segundo(data-aos="flip-up")
       h2 2.1 Entrevista motivacional
 
-    p.mb-4 Fue originalmente descrita por los psicólogos Miller y Rollnick en el año 1983, como una evolución de la terapia centrada en el paciente que combina un estilo terapéutico empático con un método directivo que se propone explorar y resolver a través del diálogo, elementos ambivalentes en el discurso del paciente (Rollnick y Miller, 1995)
+    p.mb-4 Fue originalmente descrita por los psicólogos Miller y Rollnick en el año 1983, como una evolución de la terapia centrada en el paciente que combina un estilo terapéutico empático con un método directivo que se propone explorar y resolver a través del diálogo, elementos ambivalentes en el discurso del paciente (Rollnick y Miller, 1995).
 
     p.mb-4 Se basa en cuatro principios que son descritos como el “espíritu de la entrevista motivacional”, que se presentan en el siguiente recurso de aprendizaje:
 
