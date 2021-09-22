@@ -259,7 +259,7 @@
         p.text-center.mb-0 En el siguiente video se entregan elementos claves para aplicar el Modelo ABC que ayudará al paciente fumador:
     
     .video.mb-5
-      iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+      iframe(width="560" height="315" src="https://www.youtube.com/embed/uyKF6x30owU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
     
     .row.justify-content-center.mb-4
       .col-md-10
@@ -297,7 +297,7 @@
         p.text-center.mb-0 En el siguiente video se podrá comprender el algoritmo de aplicación del ABC:
     
     .video.mb-5
-      iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+      iframe(width="560" height="315" src="https://www.youtube.com/embed/mg0eIJeLI9c" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
     
     .tarjeta.BG02.p-4.p-md-5.mb-4(data-aos="slide-up")
       .row.justify-content-around.align-items-center
@@ -558,7 +558,7 @@
     p.mb-4 A continuación, se anima a ver el video cómo brindar apoyo al paciente fumador:
 
     .video.mb-5(data-aos="fade")
-      iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+      iframe(width="560" height="315" src="https://www.youtube.com/embed/l9KgS-C2Cis" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
     
     h3(data-aos="fade-up") 5A. Arreglar seguimiento:
 

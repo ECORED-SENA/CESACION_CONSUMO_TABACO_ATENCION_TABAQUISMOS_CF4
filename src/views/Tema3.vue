@@ -85,7 +85,7 @@
 
     p.mb-4 Igualmente se requiere de una capacitación suficiente para llevar a cabo este tipo de consejería breve dirigida a personas adolescentes (Ministerio de Salud y Protección Social, 2020).
 
-    .tarjeta.BG02.p-4.p-md-5.mb-4(data-aos="fade-left")
+    //.tarjeta.BG02.p-4.p-md-5.mb-4(data-aos="fade-left")
       .row.justify-content-around.align-items-center
         .col-6.col-md-5.mb-4.mb-md-0
           img.w-50.mx-auto(src="@/assets/curso/img02.svg")
@@ -95,6 +95,12 @@
             span Ver video
             i.fas.fa-play-circle
           p.mb-0 Nota. Tomada del Ministerio de Salud y Protección Social de Colombia (2020).
+    
+    .BG02.p-3.mb-3
+      p.mb-0 En el siguiente video se presenta la intervención breve con la estrategia 5A desde el abordaje de un caso de pacientes adolescentes.
+
+    .video.mb-4(data-aos="fade")
+      iframe(width="560" height="315" src="https://www.youtube.com/embed/gxh1a6N4xLA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
 
     separador
 
@@ -174,7 +180,7 @@
             h4 Paso 5: Acordar el seguimiento
             p.mb-0 Se recomienda realizar intervenciones en cada visita de control prenatal, ya que se aprecian beneficios de la cesación en todos los momentos del embarazo, además de hacer seguimiento mediante llamadas telefónicas para motivar y resolver las dudas de la gestante.
       
-    .tarjeta.color-acento-botones.p-4.p-md-5.mb-4.BG03(data-aos="fade-left")
+    //.tarjeta.color-acento-botones.p-4.p-md-5.mb-4.BG03(data-aos="fade-left")
       .row.justify-content-around.align-items-center
         .col-6.col-md-5.mb-4.mb-md-0
           img.w-50.mx-auto(src="@/assets/curso/img02.svg")
@@ -184,6 +190,12 @@
             span Ver video
             i.fas.fa-play-circle
           p.mb-0 Nota. Tomada del Ministerio de Salud y Protección Social de Colombia (2020).
+    
+    .BG03.p-3.mb-3
+      p.mb-0 En el siguiente video se presenta la intervención breve con la estrategia 5Aes desde el abordaje de un caso de paciente gestante.
+
+    .video.mb-4(data-aos="fade")
+      iframe(width="560" height="315" src="https://www.youtube.com/embed/mdOScIUjp5s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
 
 </template>
 
