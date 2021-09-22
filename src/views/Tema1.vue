@@ -82,7 +82,7 @@
                 | ¿Ha estado expuesto a humo de segunda mano?
             p.mb-0 
             | Si la respuesta es afirmativa, continuar con la segunda 
-            strong A: Aconsejar.
+            strong A: aconsejar.
           .col-md-4
             figure
               img(src='@/assets/curso/tema1/img07.jpg', alt='1A')
@@ -275,22 +275,22 @@
                     th Modelo 5Aes
                 tbody
                   tr
-                    td #[strong A:] Averigüe.
-                    td #[strong A:] Averiguar.
+                    td #[strong A:] averigüe.
+                    td #[strong A:] averiguar.
                   tr
-                    td #[strong B:] Brinde consejo.
-                    td #[strong A:] Asesorar o aconsejar. Brindar consejo breve.
+                    td #[strong B:] brinde consejo.
+                    td #[strong A:] asesorar o aconsejar. Brindar consejo breve.
                   tr
-                    td #[strong C:] Cesación: apóyelo o derívelo para su tratamiento.
+                    td #[strong C:] cesación: apóyelo o derívelo para su tratamiento.
                     td 
                       strong A: 
-                      | Apreciar motivación.
+                      | apreciar motivación.
                       br
                       strong A: 
-                      | Ayudar a diseñar un plan para dejar de fumar.
+                      | ayudar a diseñar un plan para dejar de fumar.
                       br
                       strong A: 
-                      | Arreglar un plan de seguimiento.
+                      | arreglar un plan de seguimiento.
     
     .row.justify-content-center.mb-4(data-aos="flip-up")
       .col-md-10.BG01.p-4
@@ -327,7 +327,7 @@
         p La idea es poder aplicar el modelo completo de las 5Aes, considerando que se debe programar un espacio de tiempo de 20 minutos para poder hacerlo, se debe hacer mayor énfasis en los pasos 4 y 5 de la estrategia, no obstante, es necesario aplicar todos los pasos del modelo de las 3Aes que se revisaron anteriormente.
     
     .row.BG06.p-5.mb-5(data-aos="fade-up")
-      h3.mb-5 4A: Ayudar al paciente a elaborar un plan para dejar de fumar:
+      h3.mb-5 4A: ayudar al paciente a elaborar un plan para dejar de fumar:
       .col-6
         figure
           img(src='@/assets/curso/tema1/img17.png', alt='')
@@ -768,15 +768,15 @@
             p.mb-0
               | #[strong 5Aes:]
               br
-              | 1A: Averiguar.
+              | 1A: averiguar.
               br
-              | 2A: Asesorar.
+              | 2A: asesorar.
               br
-              | 3A: Apreciar motivación.
+              | 3A: apreciar motivación.
               br
-              | 4A: Ayudar a diseñar un plan para dejar de fumar.
+              | 4A: ayudar a diseñar un plan para dejar de fumar.
               br
-              | 5A: Arreglar un plan de seguimiento.
+              | 5A: arreglar un plan de seguimiento.
         tr
           th
             p.mb-0 
