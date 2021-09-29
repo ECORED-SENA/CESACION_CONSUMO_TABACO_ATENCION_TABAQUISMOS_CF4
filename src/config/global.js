@@ -2,7 +2,7 @@ export default {
   global: {
     componenteFormativo: 'Consejería para la cesación del consumo de tabaco',
     descripcionCurso:
-      'El contenido de este componente formativo permitirá reconocer y aplicar la consejería breve como una de las intervenciones más costo- efectivas para el tratamiento del tabaquismo y que puede ser aplicado en pacientes motivados y no motivados.',
+      'El contenido de este componente formativo permitirá reconocer y aplicar la consejería breve como una de las intervenciones más costo-efectivas para el tratamiento del tabaquismo y que puede ser aplicado en pacientes motivados y no motivados.',
     imagenBannerPrincipal: require('@/assets/curso/banner-princiapal.svg'),
     fondoBannerPrincipal: require('@/assets/curso/fondo-banner-principal.svg'),
   },
@@ -166,7 +166,7 @@ export default {
     {
       termino: 'Intervenciones breves en mujeres embarazadas',
       significado:
-        'ctividad comunicativa entre el profesional de la salud y la gestante que fuma, en la cual se comparte información clave que le va a permitir al sujeto estructurar un plan formal para dejar de fumar (Ministerio de Salud y Protección Social de Colombia, 2020).',
+        'Actividad comunicativa entre el profesional de la salud y la gestante que fuma, en la cual se comparte información clave que le va a permitir al sujeto estructurar un plan formal para dejar de fumar (Ministerio de Salud y Protección Social de Colombia, 2020).',
     },
   ],
   complementario: [

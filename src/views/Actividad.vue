@@ -11,7 +11,7 @@
       .col-12.col-md-8.col-lg-9
         .titulo-segundo
           h2 Autoevaluación de Conceptos básicos
-        p.mb-4 Apreciado participante, a continuación encontrará unos una actividad didáctica, que le ayudará a afianzar los conceptos y aprendizajes del presente componente de formación.
+        p.mb-4 Apreciado participante, a continuación encontrará una actividad didáctica, que le ayudará a afianzar los conceptos y aprendizajes del presente componente de formación.
         .tarjeta.tarjeta--azul.p-3
           .row.justify-content-around.align-items-center            
             .col-sm.mb-3.mb-sm-0

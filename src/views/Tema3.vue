@@ -105,7 +105,7 @@
     separador
 
     #t3_2.titulo-segundo(data-aos="flip-up")
-      h2 3.2 Entrevista motivacional
+      h2 3.2 Intervenciones breves para gestantes
     
     p.mb-4 El consumo de tabaco durante el embarazo es un factor de riesgo para la mujer y el feto, se ha demostrado que el tabaquismo en las embarazadas produce resultados adversos fetales, como mortinatos, abortos espontáneos, retraso del crecimiento fetal, parto pretérmino, bajo peso al nacer, desprendimiento placentario y síndrome de muerte súbita del lactante, y se ha vinculado a trastornos cognitivos, emocionales y conductuales en los niños (Fiore et al., 2008), Dejar de fumar durante el embarazo puede reducir los riesgos, beneficiando al binomio madre-hijo.
 

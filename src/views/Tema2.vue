@@ -65,7 +65,7 @@
           .col-md-10            
             .row
               .col-md-6.mb-4.mb-md-0
-                p La consejería breve motivacional es efectiva e incrementa las tasas de cesación, por eso se recomienda que los países se adopte un esquema estandarizado para llevar a cabo las intervenciones motivo por el cual se recomienda adoptar el esquema de las 5Rs para los pacientes no motivados.         
+                p La consejería breve motivacional es efectiva e incrementa las tasas de cesación, por eso se recomienda que en los países se adopte un esquema estandarizado para llevar a cabo las intervenciones motivo por el cual se recomienda adoptar el esquema de las 5Rs para los pacientes no motivados.         
               .col-md-6
                 figure
                   img(src='@/assets/curso/tema2/img04.jpg', alt='')
@@ -217,26 +217,26 @@
               p Implica expresarle al fumador que comprende el significado más profundo de lo que está queriendo decir.
               h4 Reflejo simple:
               p
-                span.fw-bold.ltrColor1 El paciente dice:
+                span.fw-bold.ltrColor1 El paciente dice: 
                 | “Si fuera fácil, me gustaría dejar de fumar”.
               p
-                span.fw-bold.ltrColor2 El profesional refleja:
+                span.fw-bold.ltrColor2 El profesional refleja: 
                 | “Lo entusiasma la idea de tener una vida sin tabaco”.
               h4 Reflejo complejo:
               p
-                span.fw-bold.ltrColor1 El paciente dice:
+                span.fw-bold.ltrColor1 El paciente dice: 
                 | “Me produce ansiedad el pensar que no podré dejar de fumar”.
               p
-                span.fw-bold.ltrColor2 El clínico refleja:
-                |  “Intentar dejar de fumar representa un reto para usted, es normal que los retos nos generen un poco de incertidumbre respecto al resultado final”.
+                span.fw-bold.ltrColor2 El clínico refleja: 
+                | “Intentar dejar de fumar representa un reto para usted, es normal que los retos nos generen un poco de incertidumbre respecto al resultado final”.
           
           .row
             .col-md-12(data-aos="fade-left")
               h3 Elaborar sumarios o resúmenes
-              p Cuando elaboramos resúmenes de lo que se ha conversados estamos evitando la dispersión, reforzando lo que ha dicho el paciente, demostrando que hemos escuchado y permitiendo que el fumador escuche en boca de otro lo que él ha expresado.
+              p Cuando elaboramos resúmenes de lo que se ha conversado estamos evitando la dispersión, reforzando lo que ha dicho el paciente, demostrando que hemos escuchado y permitiendo que el fumador escuche en boca de otro lo que él ha expresado.
               h4 Ejemplo:
               p
-                span.fw-bold.ltrColor2 El clínico concluye:
+                span.fw-bold.ltrColor2 El clínico concluye: 
                 | “En síntesis, resulta claro para mí que usted tiene buenas razones para intentar dejar de fumar, por un lado, esto mejoraría su salud, le permitiría ahorrar dinero, enfocarse en otras prioridades y, además, sería una forma de expresarle a su familia lo importante que el bienestar de todos sus miembros es para usted”.
     
     separador
@@ -326,7 +326,7 @@
                 | “Tal vez, el deseo de fumar sería muy intenso”
               p
                 span.fw-bold.ltrColor2 El clínico pregunta: 
-                | ¿Sabe usted, que existen formas efectivas de controlar ese deseo?, podemos formularle medicamentos que ayudan a que el deseo sea menor”.
+                | ¿Sabe usted, que existen formas efectivas de controlar ese deseo?, podemos formularle medicamentos que ayudan a que el deseo sea menor.
               p
                 span.fw-bold.ltrColor1 El paciente pregunta: 
                 | ¿y los medicamentos realmente funcionan?
