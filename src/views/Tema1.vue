@@ -459,7 +459,7 @@
                             | Mantenga la cajetilla o el vapeador lejos, fuera de su lugar habitual y que no esté a la vista. 
                           li
                             i.fas.fa-angle-right
-                            | Cuando sienta deseos de fumar o vapear, tendrá tiempo de preguntarse “#[i ¿Realmente lo necesito?]”. 
+                            p.mb-0 Cuando sienta deseos de fumar o vapear, tendrá tiempo de preguntarse “#[i ¿Realmente lo necesito?]”. 
                           li
                             i.fas.fa-angle-right
                             | Postergue unos minutos cada cigarrillo o vapeo, realizando alguna actividad que lo distraiga.
