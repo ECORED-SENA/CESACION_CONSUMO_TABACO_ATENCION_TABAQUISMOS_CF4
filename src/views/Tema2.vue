@@ -372,26 +372,7 @@
             span Descargar
             i.fas.fa-file-download
           p.mb-0 Nota. Tomada del Ministerio de Salud y Protección Social de Colombia (2020).
-    
-    .tarjeta.BG02.p-4.p-md-5.mb-4(data-aos="fade-left")
-      .row.justify-content-around.align-items-center
-        .col-6.col-md-5.mb-4.mb-md-0
-          img.w-50.mx-auto(src="@/assets/curso/img02.svg")
-        .col-md.col-lg-7
-          p.mb-4 En el siguiente video se realiza un ejercicio de aplicación de las 5Rs, de manera demostrativa de la intervención a un paciente no motivado.
-          a.boton.color-acento-botones.mb-4(href=("https://www.youtube.com/watch?v=CCtUfzQA1z8") target="_blank" type="application/pdf")
-            span Ver video
-            i.fas.fa-play-circle
-          p.mb-0 Nota. Tomada del Ministerio de Salud y Protección Social de Colombia (2020).
-
-
-
-
-
-
-
-
-
+ 
 </template>
 
 <script>

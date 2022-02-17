@@ -258,8 +258,9 @@
       .col-md-10.BG01.p-4
         p.text-center.mb-0 En el siguiente video se entregan elementos claves para aplicar el Modelo ABC que ayudará al paciente fumador:
     
-    .video.mb-5
+    .video
       iframe(width="560" height="315" src="https://www.youtube.com/embed/uyKF6x30owU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+    figcaption.mb-5 Adaptado del Taller Tratamiento del Tabaquismo. Capacitación OPS para prestadores de atención primaria. Colombia. 2017
     
     .row.justify-content-center.mb-4
       .col-md-10
@@ -296,9 +297,10 @@
       .col-md-10.BG01.p-4
         p.text-center.mb-0 En el siguiente video se podrá comprender el algoritmo de aplicación del ABC:
     
-    .video.mb-5
+    .video
       iframe(width="560" height="315" src="https://www.youtube.com/embed/mg0eIJeLI9c" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
-    
+    figcaption.mb-5 Adaptado del Taller Tratamiento del Tabaquismo. Capacitación OPS para prestadores de atención primaria. Colombia. 2017
+         
     .tarjeta.BG02.p-4.p-md-5.mb-4(data-aos="slide-up")
       .row.justify-content-around.align-items-center
         .col-6.col-md-5.mb-4.mb-md-0
@@ -557,8 +559,16 @@
     p.mb-4 En definitiva, depende de la evaluación clínica del paciente y de la respuesta al plan terapéutico, y su objetivo es aliviar los síntomas físicos de la abstinencia.
     p.mb-4 A continuación, se anima a ver el video cómo brindar apoyo al paciente fumador:
 
-    .video.mb-5(data-aos="fade")
+    .video(data-aos="fade")
       iframe(width="560" height="315" src="https://www.youtube.com/embed/l9KgS-C2Cis" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+
+    .row.justify-content-center.align-items-center.my-5(data-aos="fade-down")
+      .col-lg-4
+        a.anexo(:href="obtenerLink('/downloads/App_Autocuidate.pdf')" target="_blank" type="application/pdf")
+          .anexo__icono
+            img(src="@/assets/template/icono-link.svg")
+          .anexo__texto
+            p.mb-0 #[b Anexo.] Uso de TICs para apoyar la cesación de tabaco       
     
     h3(data-aos="fade-up") 5A. Arreglar seguimiento:
 
